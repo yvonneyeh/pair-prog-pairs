@@ -1,1 +1,1 @@
-cohort = ['Adele', 'Alicia', 'Christina', 'Cori', 'Elizabeth', 'Fionnie', 'Hunter', 'Ilana', 'Janaki', 'Jen', 'Kamaile', 'Katherine', 'Kieva', 'Liv', 'May', 'NanTrew', 'Paresa', 'Rachael', 'Rachel', 'Tamara', 'Vicki', 'Yvonne']
+cohort = ['Adele', 'Alicia', 'Christina', 'Cori', 'Elizabeth', 'Fionnie', 'Hunter', 'Ilana', 'Janaki', 'Jen', 'Kamaile', 'Katherine', 'Kieva', 'Liv', 'May', 'Nan', 'Paresa', 'Rachael', 'Rachel', 'Tamara', 'Trew', 'Vicki', 'Yvonne']
